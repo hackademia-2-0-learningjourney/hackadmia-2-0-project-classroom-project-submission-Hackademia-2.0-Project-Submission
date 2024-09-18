@@ -1,0 +1,12 @@
+Involvement by group members:
+Aadim Prajapati (Backend):
+Developed the API using Fast API to predict the models’ operations and interactions. Mapping the model to a well designed, fast, and scalable API endpoint, ensuring that there are effective interactions of the model with the frontend.
+
+Aashish Chakradhar (Model Devloper) :
+Used right data sets to train the designed machine learning algorithm. Hyperparameters were adjusted to the optimum in terms of accuracy and performance of the machine learning model. Comments on data preprocessing and feature engineering in the early stages.
+
+Kiran Khayamali (Team Lead, Tester):
+Conducted comprehensive testing of the model to check for the potential problems. Involved in the process of improving the performance of the model by conducting various experiments and ensuring the reliability of the model’s predictions.
+
+Rajip Tuitui (Documenter and Frontend): 
+Developed user interface of the document and maintained proper communication between the user interface part and the back API. On the front end developed the avory to implement the call functions of the API to obtain the predictions of the model and incorporated this into the UI of the application.
