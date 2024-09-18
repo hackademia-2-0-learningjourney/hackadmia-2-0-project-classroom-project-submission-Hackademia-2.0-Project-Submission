@@ -47,10 +47,18 @@ Follow these steps to set up the project:
     ```
 Then you are good to go.
 
-
-## Readme info
-
-**Usage**: 
+## Packages and Libraries Used
+1. **Numpy**
+2. **Pandas**
+3. **Matplotlib**
+4. **Scikit-Learn**
+5. **Faker**
+6. **FastAPI**
+7. **Joblib**
+8. **Pydantic**
+9. **Uvicorn**
+   
+## Usage
   When the user submits the form, the form fields are sent as request text to the API. Then the API predicts the academic performance and returns the response/ prediction for the provided features.
 
   For running the frontend script, first open the main directory and then navigate to frontend folder then open the index.html file by double click on it.
